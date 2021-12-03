@@ -1,0 +1,15 @@
+.button{
+	background-color: black;
+	color: white;
+	border-radius: 6px;
+	padding:  16px;
+	border: solid 1px black;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+}
+
+.button:hover {
+	color:  black;
+	background-color: white;
+	transition: 0.5s;
+}

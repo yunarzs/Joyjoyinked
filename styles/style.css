@@ -1,0 +1,18 @@
+@import url(banner.css);
+@import url(button.css);
+@import url(cards.css);
+@import url(footer.css);
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100&family=Poppins:wght@100&display=swap');
+@import url(navbar.css);
+@import url(texteentretien.css);
+@import url(contact.css);
+
+body{
+	margin: 0;
+	font-family: 'Poppins', sans-serif;
+}
+
+ul {
+	padding: 0;
+}
+
