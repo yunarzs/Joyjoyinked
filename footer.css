@@ -1,0 +1,49 @@
+.footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 16px 0px;
+	font-family: 'Poppins', sans-serif;
+	display: flex;
+	justify-content: space-around;
+}
+
+.fa-instagram{
+	color: white;
+	font-size: 24PX;
+}
+
+.fa-facebook{
+	color: white;
+	font-size: 24PX;
+}
+.fa-instagram:hover {
+	color:  #f21063;
+	background-color: black;
+	transition: 0.5s;
+}
+.fa-facebook:hover {
+	color:  #f21063;
+	background-color: black;
+	transition: 0.5s;
+}
+
+.baspage{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 16px 0px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.footer h5{
+	font-size: 16px;
+}
+
+.footer h3{
+	font-size: 16px;
+}
+
+.footer h4{
+	font-size: 16px;
+}
