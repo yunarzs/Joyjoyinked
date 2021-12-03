@@ -17,6 +17,16 @@
 	color: white;
 	font-size: 24PX;
 }
+.fa-instagram:hover {
+	color:  #f21063;
+	background-color: black;
+	transition: 0.5s;
+}
+.fa-facebook:hover {
+	color:  #f21063;
+	background-color: black;
+	transition: 0.5s;
+}
 
 .baspage{
 	background-color: black;
